@@ -1,0 +1,1665 @@
+fileFormatVersion: 2
+guid: 3076fa8c22cd469419f11ac96de1232e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3262
+        width: 147
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05acd4b70aadb3c4296609d8e1f32002
+      internalID: -56504604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3262
+        width: 149
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0166ca63f20a5f47bd1995922242a47
+      internalID: 1290359235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3262
+        width: 148
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f292012a2c176468797091a4a67e6d
+      internalID: -825211778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3262
+        width: 148
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e576ddd1a3b4488915ba2efccb447
+      internalID: -1595571545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3262
+        width: 147
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540fb6eeaab94ae4aa5471fd43af8121
+      internalID: -1910681483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 3262
+        width: 148
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a393acd6e27441afa63fdaf2eed3d
+      internalID: -1354622400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3262
+        width: 149
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83602540312f6d24faed1820924d6f42
+      internalID: -777128247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2778
+        width: 168
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959757558564c4548831313d23509a07
+      internalID: 1341527375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2776
+        width: 165
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91c6b60e0792f49a714dc44ade0abb
+      internalID: 2060071897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2778
+        width: 167
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d1733e09d98ff46852a16d2320d9bc
+      internalID: -1290872104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2778
+        width: 171
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61234b15986e14684013f3bd4e3aac
+      internalID: -1993688306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2754
+        width: 210
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63e2d674dc4af45af31e228334c6f7
+      internalID: -249555708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2755
+        width: 211
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b6d871432075458d0eca9b917182c
+      internalID: 380642893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2754
+        width: 210
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c97d804f627efb4795e9eec9f0d08b2
+      internalID: -31889480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2750
+        width: 209
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189c5848a5c28c4ab8da446be0b8daa
+      internalID: 1900000912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2384
+        width: 172
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63274126755ee4f9e6326e07a7a6e3
+      internalID: -977308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2392
+        width: 174
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e5a64a2c061c44a180b7a033e2b92
+      internalID: -2070011500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2386
+        width: 178
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a0ec18c2b69bd4ebe18f1b95d68323
+      internalID: 1885444714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2390
+        width: 174
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0eb1cddbe01ee4fb46241f8d43d337
+      internalID: 1587495780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_19
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2390
+        width: 210
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed95d070aa0bb54188e4010f7991d93
+      internalID: -1950923955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2395
+        width: 209
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3334a13fca986419087f549a624177
+      internalID: 248483315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2397
+        width: 211
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7415a4912e734395a9a378f374631
+      internalID: 915727278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2397
+        width: 211
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba62ec48539154cb22bfbb7e622124
+      internalID: 1785332897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1966
+        width: 153
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb2db0554617d4eaa2a87f4c0a89b2
+      internalID: -1354094509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1966
+        width: 153
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb77eb1ae324f42901aff54aca7b25
+      internalID: -919527693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1960
+        width: 153
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9358e5e636fe9744d9f80363ecc0e089
+      internalID: 1485448185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1963
+        width: 152
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d038f78a61d1945bdcae34007d3c9b
+      internalID: 89404841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1963
+        width: 153
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba4089d85619874e967f6926e9bf44e
+      internalID: 1185297371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1963
+        width: 152
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cea0010e0bed44494fd5579a0cb872
+      internalID: -851719470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1960
+        width: 153
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a635ba4404bd75408cde69b181b3a42
+      internalID: 1018824401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1963
+        width: 153
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a007cdbe08f02408ad1dd143e3d7ea
+      internalID: -1731926618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1963
+        width: 152
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f58e2b167cf549818ca8973f7db99
+      internalID: 1091630463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1966
+        width: 153
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3088b0209a1883b48b7588d93a8b2c52
+      internalID: -1742867947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1601
+        width: 138
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199eff83522f89428ac76220e9affcb
+      internalID: -289823581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1601
+        width: 139
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b3096e0e5fcb4a9b7a803198a4259
+      internalID: 1745697707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1599
+        width: 139
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ccd7e005b771948808371bfd8416be
+      internalID: 1601027380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1599
+        width: 140
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e54d6aebd96ddc4380b889265a88fca
+      internalID: -230408789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1600
+        width: 138
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802a19be5c212b43a5deb80e8195f92
+      internalID: 633976311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1597
+        width: 139
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb77ac3e2dc204eb75ed123677c72d
+      internalID: -869445358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1595
+        width: 138
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518f5ec13c28aa488faef6f0fb67289
+      internalID: 391237580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1597
+        width: 139
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1c362661adb046b4e05bf402afc80
+      internalID: -1087717994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1216
+        width: 139
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c2d8265a51b74cb6823543843b449
+      internalID: -534966780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1216
+        width: 137
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c039c1ad438e4582efd692866be0f
+      internalID: 294393233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1211
+        width: 139
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad7668aaa60b36468c5a36a31907e79
+      internalID: 905544409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1209
+        width: 138
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedcc3abfddf4e34c8ca85f37736f760
+      internalID: 799247544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1210
+        width: 139
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e28ded5693824386884b86cf5d1dc
+      internalID: -1204359615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1214
+        width: 138
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad369043197694da040ddee130ebc9
+      internalID: -472953996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1212
+        width: 138
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e4fe71f092f2843bd11cfd144cd59d
+      internalID: 133355774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1212
+        width: 139
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5ed16cb409774383299a9b4e80a6b
+      internalID: -428248121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 815
+        width: 152
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cce82d65783744884261bebc1ed9bd
+      internalID: 2108431563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 806
+        width: 152
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de719ead2009e0b4ba589a44b2d1b7db
+      internalID: 1132396287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 809
+        width: 153
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415ddc9bda1c8d4da41c76115620fbf
+      internalID: -657191680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 813
+        width: 152
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0182bb5177db4bb15f0492e910243
+      internalID: 1746627512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 813
+        width: 153
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803f55ba4a54864691702451a6e9e1a
+      internalID: -1226755648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 806
+        width: 152
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f24454eb845cc4c9dd5b7e27a6862d
+      internalID: -1542583297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 809
+        width: 153
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc5bb68add388244bb22b4f2a9e0383
+      internalID: 853720630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 470
+        width: 162
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfac47afe4645e41bcb8950b6a48062
+      internalID: 1908936927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 475
+        width: 156
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956bacb564e45be4a98d60608e2e596a
+      internalID: 136489009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 474
+        width: 157
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e97ce2c51c5624ca1916e3dde1e6f8
+      internalID: 1256980545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 473
+        width: 156
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192aada0453e15b4abd4cea79a6ffc93
+      internalID: -2135780438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 518
+        width: 193
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261f615b40f2e24fbecd27d5393da34
+      internalID: -84809602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 532
+        width: 201
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94087cdcc8b84241a807a2b9a71dc84
+      internalID: 137414777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 470
+        width: 217
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc669bd24c7f2449911d1015046486
+      internalID: -288846735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 467
+        width: 170
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db820e3ece43d5458e01944dcfd684c
+      internalID: -123976938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 467
+        width: 187
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9a5479060dba47abae31f0760dcf8
+      internalID: -78655667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 50
+        width: 214
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7deee8e016253844b744bb59931861e
+      internalID: 256303090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 47
+        width: 237
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f614ff8d18fe6d54abe13f711daf0322
+      internalID: -1652630703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 48
+        width: 290
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c8ef1160ab628469763c98d94a753b
+      internalID: -1418091290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Scratchin Melodii - Melodii Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 49
+        width: 285
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d771743ca20651440b158e9366153970
+      internalID: -735907363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Scratchin Melodii - Melodii Overworld_7: 1341527375
+      PC Computer - Scratchin Melodii - Melodii Overworld_11: -249555708
+      PC Computer - Scratchin Melodii - Melodii Overworld_57: 136489009
+      PC Computer - Scratchin Melodii - Melodii Overworld_19: -1950923955
+      PC Computer - Scratchin Melodii - Melodii Overworld_55: 853720630
+      PC Computer - Scratchin Melodii - Melodii Overworld_14: 1900000912
+      PC Computer - Scratchin Melodii - Melodii Overworld_21: 915727278
+      PC Computer - Scratchin Melodii - Melodii Overworld_3: -1595571545
+      PC Computer - Scratchin Melodii - Melodii Overworld_20: 248483315
+      PC Computer - Scratchin Melodii - Melodii Overworld_62: -288846735
+      PC Computer - Scratchin Melodii - Melodii Overworld_63: -123976938
+      PC Computer - Scratchin Melodii - Melodii Overworld_2: -825211778
+      PC Computer - Scratchin Melodii - Melodii Overworld_40: -1087717994
+      PC Computer - Scratchin Melodii - Melodii Overworld_36: -230408789
+      PC Computer - Scratchin Melodii - Melodii Overworld_64: -78655667
+      PC Computer - Scratchin Melodii - Melodii Overworld_67: -1418091290
+      PC Computer - Scratchin Melodii - Melodii Overworld_61: 137414777
+      PC Computer - Scratchin Melodii - Melodii Overworld_34: 1745697707
+      PC Computer - Scratchin Melodii - Melodii Overworld_18: 1587495780
+      PC Computer - Scratchin Melodii - Melodii Overworld_66: -1652630703
+      PC Computer - Scratchin Melodii - Melodii Overworld_15: -977308398
+      PC Computer - Scratchin Melodii - Melodii Overworld_26: 89404841
+      PC Computer - Scratchin Melodii - Melodii Overworld_8: 2060071897
+      PC Computer - Scratchin Melodii - Melodii Overworld_39: 391237580
+      PC Computer - Scratchin Melodii - Melodii Overworld_10: -1993688306
+      PC Computer - Scratchin Melodii - Melodii Overworld_27: 1185297371
+      PC Computer - Scratchin Melodii - Melodii Overworld_56: 1908936927
+      PC Computer - Scratchin Melodii - Melodii Overworld_54: -1542583297
+      PC Computer - Scratchin Melodii - Melodii Overworld_25: 1485448185
+      PC Computer - Scratchin Melodii - Melodii Overworld_32: -1742867947
+      PC Computer - Scratchin Melodii - Melodii Overworld_49: 2108431563
+      PC Computer - Scratchin Melodii - Melodii Overworld_4: -1910681483
+      PC Computer - Scratchin Melodii - Melodii Overworld_59: -2135780438
+      PC Computer - Scratchin Melodii - Melodii Overworld_45: -1204359615
+      PC Computer - Scratchin Melodii - Melodii Overworld_23: -1354094509
+      PC Computer - Scratchin Melodii - Melodii Overworld_52: 1746627512
+      PC Computer - Scratchin Melodii - Melodii Overworld_1: 1290359235
+      PC Computer - Scratchin Melodii - Melodii Overworld_35: 1601027380
+      PC Computer - Scratchin Melodii - Melodii Overworld_31: 1091630463
+      PC Computer - Scratchin Melodii - Melodii Overworld_68: -735907363
+      PC Computer - Scratchin Melodii - Melodii Overworld_42: 294393233
+      PC Computer - Scratchin Melodii - Melodii Overworld_44: 799247544
+      PC Computer - Scratchin Melodii - Melodii Overworld_28: -851719470
+      PC Computer - Scratchin Melodii - Melodii Overworld_5: -1354622400
+      PC Computer - Scratchin Melodii - Melodii Overworld_37: 633976311
+      PC Computer - Scratchin Melodii - Melodii Overworld_41: -534966780
+      PC Computer - Scratchin Melodii - Melodii Overworld_53: -1226755648
+      PC Computer - Scratchin Melodii - Melodii Overworld_24: -919527693
+      PC Computer - Scratchin Melodii - Melodii Overworld_33: -289823581
+      PC Computer - Scratchin Melodii - Melodii Overworld_9: -1290872104
+      PC Computer - Scratchin Melodii - Melodii Overworld_47: 133355774
+      PC Computer - Scratchin Melodii - Melodii Overworld_51: -657191680
+      PC Computer - Scratchin Melodii - Melodii Overworld_29: 1018824401
+      PC Computer - Scratchin Melodii - Melodii Overworld_0: -56504604
+      PC Computer - Scratchin Melodii - Melodii Overworld_16: -2070011500
+      PC Computer - Scratchin Melodii - Melodii Overworld_17: 1885444714
+      PC Computer - Scratchin Melodii - Melodii Overworld_60: -84809602
+      PC Computer - Scratchin Melodii - Melodii Overworld_38: -869445358
+      PC Computer - Scratchin Melodii - Melodii Overworld_46: -472953996
+      PC Computer - Scratchin Melodii - Melodii Overworld_48: -428248121
+      PC Computer - Scratchin Melodii - Melodii Overworld_50: 1132396287
+      PC Computer - Scratchin Melodii - Melodii Overworld_12: 380642893
+      PC Computer - Scratchin Melodii - Melodii Overworld_58: 1256980545
+      PC Computer - Scratchin Melodii - Melodii Overworld_6: -777128247
+      PC Computer - Scratchin Melodii - Melodii Overworld_65: 256303090
+      PC Computer - Scratchin Melodii - Melodii Overworld_30: -1731926618
+      PC Computer - Scratchin Melodii - Melodii Overworld_43: 905544409
+      PC Computer - Scratchin Melodii - Melodii Overworld_13: -31889480
+      PC Computer - Scratchin Melodii - Melodii Overworld_22: 1785332897
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
